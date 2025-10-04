@@ -1,0 +1,12 @@
+# Query Optimizer for Simple DB - Requirements
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# Python >= 3.7
+
+# Standard library modules used:
+# - re (regular expressions)
+# - typing (type hints)
+# - dataclasses (data classes)
+# - unittest (testing framework)
